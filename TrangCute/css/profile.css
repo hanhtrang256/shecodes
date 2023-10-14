@@ -1,0 +1,27 @@
+#profile {
+    font-family: sans-serif;
+    text-align: center;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    max-width: 200px;
+}
+
+#info #name {
+    /* font-size: 1.2em; */
+    /* font-weight: bold; */
+}
+
+label {
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+/* #info #username {
+    margin-bottom: 20px;
+} */
+
+#info #country, #gender {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
